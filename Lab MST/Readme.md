@@ -38,7 +38,7 @@ int longestMountain(vector<int>& arr) {
 <img src='./LC845.png'>
 
 
-## Question 2 --> Minimum Limit of Balls in a Bag
+## Question 2 : Leetcode 1760 -->  Minimum Limit of Balls in a Bag
 
 ```cpp
 bool check(vector<int> &nums,int maxOperations,int mid){
